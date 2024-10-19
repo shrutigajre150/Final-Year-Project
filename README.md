@@ -13,6 +13,6 @@ This project aims to develop a multi-algorithmic approach for detecting genetic 
 
 ## Technologies Used
 - **Programming Languages**: Python
-- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn 
+- **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn are some of the libraries used.
 - **Tools**: Jupyter Notebook
 
